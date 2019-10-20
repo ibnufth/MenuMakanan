@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RcwVw</string>
+    <string name="nama">Nama</string>
+    <string name="harga">Harga</string>
+    <string name="judul">Makanan Favorit</string>
+    <string name="tv_detail">Detail</string>
+</resources>
